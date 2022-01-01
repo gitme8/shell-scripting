@@ -1,6 +1,6 @@
 #!/usr/bin/bash
 echo "Playing with colors"
-echo "======================================"
+echo "====================="
 echo -e "\e[31mHello In RED\e[0m"
 echo -e "\e[32mHello In GREEN\e[0m"
 echo -e "\e[33mHello In YELLOW\e[0m"
