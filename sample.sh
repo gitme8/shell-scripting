@@ -1,4 +1,2 @@
 #!/usr/bin/bash
-ls -ltr
-who -br
-whoami
+echo -e "\e[COLmMESSAGE\e[0m"
