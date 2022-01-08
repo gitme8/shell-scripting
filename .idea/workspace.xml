@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="a752c65f-07e3-437d-9c6f-8855674d72d6" name="Default Changelist" comment="new char">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/color-play.sh" beforeDir="false" afterPath="$PROJECT_DIR$/color-play.sh" afterDir="false" />
-    </list>
+    <list default="true" id="a752c65f-07e3-437d-9c6f-8855674d72d6" name="Default Changelist" comment="hello" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -254,7 +251,35 @@
       <option name="project" value="LOCAL" />
       <updated>1641540605342</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="new char">
+      <created>1641606978695</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1641606978695</updated>
+    </task>
+    <task id="LOCAL-00029" summary="new">
+      <created>1641607037857</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1641607037857</updated>
+    </task>
+    <task id="LOCAL-00030" summary="hello">
+      <created>1641607307308</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1641607307308</updated>
+    </task>
+    <task id="LOCAL-00031" summary="hello">
+      <created>1641607342652</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1641607342652</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="Vcs.Log.History.Properties">
@@ -285,6 +310,8 @@
     <MESSAGE value="new file1" />
     <MESSAGE value="new input read" />
     <MESSAGE value="new char" />
-    <option name="LAST_COMMIT_MESSAGE" value="new char" />
+    <MESSAGE value="new" />
+    <MESSAGE value="hello" />
+    <option name="LAST_COMMIT_MESSAGE" value="hello" />
   </component>
 </project>
