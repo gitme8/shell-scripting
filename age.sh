@@ -7,5 +7,5 @@ if [ "${age}" -gt 18 ]; then
 elif [ "${age}" -gt 60 ]; then
     echo you are senior citizen
 else
-  echo you are minor
+    echo you are minor
 fi
