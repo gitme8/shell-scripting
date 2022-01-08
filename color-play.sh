@@ -9,4 +9,3 @@ echo -e "\e[35mHello In MAGENTA\e[0m"
 echo -e "\e[36mHello In CYAN\e[0m"
 echo "===================="
 
-echo -e "\e[37, 5mThis is blinking text\e[0m"
